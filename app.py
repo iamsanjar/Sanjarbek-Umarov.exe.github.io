@@ -3,7 +3,7 @@ import streamlit as st
 
 # ------------------------------------------------------------------ config ---
 st.set_page_config(
-    page_title="sanjarbek@tashkent:~$",
+    page_title="sanjarbek@data:~$",
     page_icon="🖥️",
     layout="centered",
 )
